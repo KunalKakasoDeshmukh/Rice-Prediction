@@ -1,12 +1,10 @@
-Flask==1.1.1
+python==3.7.7
+Flask==1.1.2
 gunicorn==19.1.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 werkzeug==0.15.5
-numpy>=1.9.2
-scipy>=0.15.1
-matplotlib>=1.4.3
-pandas>=0.19
-keras>=2.4.3
-tensorflow>=2.1.0
+numpy==1.18.5
+keras==2.4.3
+tensorflow==2.1.0
